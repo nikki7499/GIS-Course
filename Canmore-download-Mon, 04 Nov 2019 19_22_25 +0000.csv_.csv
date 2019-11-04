@@ -1,8 +1,3 @@
-Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
-http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
-"Canmore-download-Mon, 04 Nov 2019 19:22:25 +0000.csv"
-
-
 CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
 "19502","NJ81NW 4","Greenlands","Cairnfield (Period Unassigned), Clearance Cairn (Period Unassigned), Hut Circle(S) (Prehistoric), Pottery Scatter (Period Unassigned), Rig And Furrow (Medieval), Ring Cairn (Neol/bronze Age)","381230","817780","ABERDEENSHIRE","ABERDEENSHIRE","FINTRAY","NJ 8123 1778","http://canmore.org.uk/site/19502",
 "39763","NR93SW 630","Arran, Machrie North","Burial Cairn (Prehistoric)(Possible), Clearance Cairn(S) (Prehistoric)(Possible), Unidentified Flint, Unidentified Pottery","190060","634600","NORTH AYRSHIRE","BUTESHIRE","KILMORY","NR 9006 3460","http://canmore.org.uk/site/39763",
