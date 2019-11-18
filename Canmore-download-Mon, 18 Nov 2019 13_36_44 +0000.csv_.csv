@@ -1,8 +1,3 @@
-Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
-http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
-"Canmore-download-Mon, 18 Nov 2019 13:36:44 +0000.csv"
-
-
 CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
 "298415","NO35SE 269","Powmyre Quarry","Burnt Mound (Prehistoric)(Possible), Cremation (Period Unassigned), Hearth (Prehistoric), Lithic Scatter(S) (Prehistoric), Long Cist(S) (Early Medieval), Pit Alignment(S) (Prehistoric), Post Hole(S) (Prehistoric), Pottery Scatter(S) (Prehistoric), Rig And Furrow (Medieval), Roundhouse (Prehistoric), Short Cist (Bronze Age)","336460","750230","ANGUS","ANGUS","AIRLIE","NO 3646 5023","http://canmore.org.uk/site/298415",
 "357556","NO53NE 132","Carnoustie, David Moyes Road/ Balmachie Road","Field Drain(S) (Medieval), Pit Group(S) (Prehistoric), Pit Group(S) (Prehistoric), Pottery Scatter (Prehistoric), Rig And Furrow(S) (Medieval), Structure(S) (Prehistoric), Hoard (Bronze Age), Pin (Bronze Age), Spearhead (Gold)(Bronze Age), Sword (Bronze)(Bronze Age), Unidentified Pottery(S) (Prehistoric)","355570","735219","ANGUS","ANGUS","BARRY","NO 55570 35219","http://canmore.org.uk/site/357556",
