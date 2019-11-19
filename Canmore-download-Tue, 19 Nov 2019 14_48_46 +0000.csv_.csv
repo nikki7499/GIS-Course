@@ -1,8 +1,3 @@
-Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
-http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
-"Canmore-download-Tue, 19 Nov 2019 14:48:46 +0000.csv"
-
-
 CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
 "1663","HY21NW 120","Skara Brae","Settlement (Neolithic)","323125","1018745","ORKNEY ISLANDS","ORKNEY","SANDWICK","HY 23125 18745","http://canmore.org.uk/site/1663",
 "1983","HY31NE 13","Brae Of Muckquoy","Cist(S) (Period Unassigned), Settlement (Prehistoric), Leaf Arrowhead (Prehistoric), Mace (Stone)(Prehistoric), Unidentified Flint(S) (Flint), Unidentified Pottery (Prehistoric)","337600","1017400","ORKNEY ISLANDS","ORKNEY","FIRTH","HY 3760 1740","http://canmore.org.uk/site/1983",
